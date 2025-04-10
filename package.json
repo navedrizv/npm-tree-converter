@@ -1,0 +1,20 @@
+{
+  "name": "tree-generator",
+  "version": "1.0.0",
+  "description": "Create folder/file structures from tree-style text input (like `tree` command output).",
+  "bin": {
+    "tree-generator": "./bin/tree-generator.js"
+  },
+  "type": "module",
+  "keywords": [
+    "tree",
+    "file-structure",
+    "cli",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
