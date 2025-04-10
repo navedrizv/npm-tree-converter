@@ -75,7 +75,7 @@ Everything is generated relative to your current terminal path
 Pull requests are welcome! Feel free to fork the repo and submit your ideas or fixes.
 
 ```
-git clone git@github.com:your-username/tree-generator.git
+git clone git@github.com:navedrizv/tree-generator.git
 cd tree-generator
 npm install
 ```
