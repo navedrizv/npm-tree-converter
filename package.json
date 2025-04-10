@@ -1,6 +1,6 @@
 {
   "name": "tree-generator-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create folder/file structures from tree-style text input (like `tree` command output).",
   "bin": {
     "tree-generator": "./bin/tree-generator.js"
